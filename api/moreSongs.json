@@ -1,0 +1,359 @@
+[
+    {
+        "id": 8,
+        "name": "Ae Dil Hai mushkil",
+        "Artist": "Arijit Singh",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvIuuH557lqxXfx2yL8YoPOT7YDXzSYCzL9w4UXMkxt2hE66OlE0ZYOiipbxXSGFHuqM&usqp=CAU",
+        "Audio": "Ae_Dil_Hai_Mushkil.mp3"
+    },
+    {
+        "id": 9,
+        "name": "Asal Mein",
+        "Artist": "Darshan Raval",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmQ0MTE3ZjYtZGEyMS00NzBmLTkxNzMtMTI0MDYwZGE3NzYxXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_QL75_UX820_.jpg",
+        "Audio": "Asal_Mein.mp3"
+    },
+    {
+        "id": 10,
+        "name": "Chaleya",
+        "Artist": "Arijit Singh",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwckn4GJ-7IlE9A6amaRbwZabzGnCwqf10hQ&s",
+        "Audio": "Chaleya.mp3"
+    },
+    {
+        "id": 11,
+        "name": "Dil Diya Gallan",
+        "Artist": "Atif Aslam",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK39wnbgCScuzhEcZZFiLj91KJLpcwoBDoIA&s",
+        "Audio": "Dil_Diyan_Gallan.mp3"
+    },
+    {
+        "id": 12,
+        "name": "Dil Ibaadat",
+        "Artist": "KK",
+        "image": "https://i1.sndcdn.com/artworks-4a9uRYKokSlxODeV-pjh2RA-t500x500.jpg",
+        "Audio": "Dil_Ibaadat.mp3"
+    },
+    {
+        "id": 13,
+        "name": "Ek Tarfa",
+        "Artist": "Darshan Raval",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIDTYNMBYcBeTMyEoy2w1LTK9cBoL0kP3yyg&s",
+        "Audio": "Ek_Tarfa.mp3"
+    },
+    {
+        "id": 14,
+        "name": "Gerua",
+        "Artist": "Arijit Singh",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Gerua_cover.jpg",
+        "Audio": "Gerua.mp3"
+    },
+  
+    {
+        "id": 15,
+        "name": "Hawa Banke",
+        "Artist": "Darshan Raval",
+        "image": "https://c.saavncdn.com/751/Hawa-Banke-Single-Punjabi-2019-20190710170223-500x500.jpg",
+        "Audio": "Hawa_Banke.mp3"
+    },
+    {
+        "id": 16,
+        "name": "Hamnava Mere",
+        "Artist": "Jubin Nautiyal",
+        "image": "https://i.pinimg.com/originals/60/9a/80/609a8061a8ae93f2735f3e3e20190b90.jpg",
+        "Audio": "Humnava_Mere.mp3"
+    },
+    {
+        "id": 17,
+        "name": "Is Qadar",
+        "Artist": "Darshan Raval, Tulsi Kumar",
+        "image": "https://c.saavncdn.com/349/Is-Qadar-Hindi-2021-20210408051001-500x500.jpg",
+        "Audio": "Is_Qadar.mp3"
+    },
+    {
+        "id": 18,
+        "name": "Janam Janam",
+        "Artist": "Arijit Singh",
+        "image": "https://c.saavncdn.com/540/Janam-Janam-Trending-Version-Hindi-2023-20231005185452-500x500.jpg",
+        "Audio": "Janam_Janam.mp3"
+    },
+    {
+        "id": 19,
+        "name": "Jo Bheji Thi Duaa",
+        "Artist": "Arijit Singh",
+        "image": "https://s2.dmcdn.net/v/KhXat1Q5LCsSeoaLi/x1080",
+        "Audio": "Jo_Bheji_Thi_Duaa.mp3"
+    },
+    {
+        "id": 20,
+        "name": "Kaash Aisa Hota",
+        "Artist": "Darshan Raval",
+        "image": "https://c.saavncdn.com/308/Kaash-Aisa-Hota-Single-Hindi-2019-20190521125034-500x500.jpg",
+        "Audio": "Kaash_Aisa_Hota.mp3"
+    },
+    {
+        "id": 21,
+        "name": "Khairyat Poocho",
+        "Artist": "Arijit Singh",
+        "image": "https://images.genius.com/a517f0f7c7224436494f583b0b44f416.300x300x1.jpg",
+        "Audio": "Khairyat_Poocho.mp3"
+    },
+  
+   
+    {
+        "id": 22,
+        "name": "Khamoshiyan",
+        "Artist": "Arijit Singh",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738d07544fddf5b7d9a1e41554",
+        "Audio": "Khamoshiyan.mp3"
+    },
+    {
+        "id": 23,
+        "name": "Kuch Iss Tarah",
+        "Artist": "Arnab Dutt",
+        "image": "https://c.saavncdn.com/812/1921-Hindi-2017-20171222-500x500.jpg",
+        "Audio": "Kuch_Iss_Tarah.mp3"
+    },
+    {
+        "id": 24,
+        "name": "Main Agar",
+        "Artist": "Atif Aslam",
+        "image": "https://c.saavncdn.com/491/Main-Agar-From-Tubelight--Hindi-2017-500x500.jpg",
+        "Audio": "Main_Agar.mp3"
+    },
+    {
+        "id": 25,
+        "name": "Barish Ki Boli",
+        "Artist": "Qaisar Khan",
+        "image": "https://img.wynk.in/unsafe/200x200/filters:no_upscale():strip_exif():format(jpg)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/1560508482/48264397.jpg",
+        "Audio": "Main_Barish_Ki_Boli_Samajhta_Nahi_Tha.mp3"
+    },
+    {
+        "id": 26,
+        "name": "MAIN WOH CHAAND",
+        "Artist": "Darshan Raval",
+        "image": "https://i.scdn.co/image/ab67616d0000b273043d0ccce84fc122a4e89be4",
+        "Audio": "MAIN_WOH_CHAAND.mp3"
+    },
+    {
+        "id": 27,
+        "name": "Mehrama",
+        "Artist": "Darshan Raval",
+        "image": "https://a10.gaanacdn.com/gn_img/song/Oxd3xP3gVY/d3xAq99QWg/size_m_1581068929.jpg",
+        "Audio": "Mehrama.mp3"
+    },
+    {
+        "id": 28,
+        "name": "Mujhe Peene Do",
+        "Artist": "Darshan Raval",
+        "image": "https://c.saavncdn.com/672/Mujhe-Peene-Do-Hindi-2020-20201023154511-500x500.jpg",
+        "Audio": "Mujhe_Peene_Do.mp3"
+    },
+  
+    {
+        "id": 29,
+        "name": "Dil Meri Na Sune",
+        "Artist": "Atif Aslam",
+        "image": "https://c.saavncdn.com/014/Dil-Meri-Na-Sune-From-Genius--Hindi-2018-20191216191847-500x500.jpg",
+        "Audio": "Dil_Meri_Na_Sune.mp3"
+    },
+    {
+        "id": 30,
+        "name": "Pal",
+        "Artist": "Arijit Singh",
+        "image": "https://lq.djjohal.com/covers/67910/Pal%20(Jalebi).jpg",
+        "Audio": "Pal.mp3"
+    },
+    {
+        "id": 31,
+        "name": "Pehli Dafa",
+        "Artist": "Atif Aslam",
+        "image": "https://c.saavncdn.com/866/Pehli-Dafa-Hindi-2017-500x500.jpg",
+        "Audio": "Pehli_Dafa_Song.mp3"
+    },
+    {
+        "id": 32,
+        "name": "Phir Bhi Tumko Chaahunga",
+        "Artist": "Atif Aslam",
+        "image": "https://c.saavncdn.com/441/Half-Girlfriend-Hindi-2017-20180622-500x500.jpg",
+        "Audio": "Phir_Bhi_Tumko_Chaahunga.mp3"
+    },
+    {
+        "id": 33,
+        "name": "Soulmate",
+        "Artist": "Arijit Singh, Badshah",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzt5rllivqD3rYyU9Hkh7fWwhAnbmA-ZD95wrL9wXA2d3HHLZg3u5Qaik_UVoGWOXMF8w&usqp=CAU",
+        "Audio": "Soulmate.mp3"
+    },
+    {
+        "id": 34,
+        "name": "Sun Le Zara",
+        "Artist": "Arnab Dutt",
+        "image": "https://c.saavncdn.com/812/1921-Hindi-2017-20171222-500x500.jpg",
+        "Audio": "Sunn_Le_Zara.mp3"
+    },
+    {
+        "id": 35,
+        "name": "Teri Yaadon Mein",
+        "Artist": "KK",
+        "image": "https://c.saavncdn.com/219/Teri-Yaadon-Mein-K-K-Hindi-2022-20221114201018-500x500.jpg",
+        "Audio": "Teri_Yaadon_Mein.mp3"
+    },
+  
+    {
+        "id": 36,
+        "name": "Toota Jo Kabhi Tara",
+        "Artist": "Atif Aslam",
+        "image": "https://c.saavncdn.com/339/A-Flying-Jatt-Hindi-2016-20190819110720-500x500.jpg",
+        "Audio": "Toota_Jo_Kabhi_Tara.mp3"
+    },
+  
+    {
+        "id": 37,
+        "name": "Tu Aake Dekhle",
+        "Artist": "King",
+        "image": "https://c.saavncdn.com/275/The-Carnival-Hindi-2020-20230718172154-500x500.jpg",
+        "Audio": "Tu_Aake_Dekhle.mp3"
+    },
+  
+    {
+        "id": 38,
+        "name": "Tu Hai Kahan",
+        "Artist": "Aur",
+        "image": "https://c.saavncdn.com/397/Tu-hai-kahan-Hindi-2023-20231016122634-500x500.jpg",
+        "Audio": "Tu_Hai_Kahan.mp3.mp3"
+    },
+  
+    {
+        "id": 38,
+        "name": "Uska Hi Bana",
+        "Artist": "Arijit Singh",
+        "image": "https://c.saavncdn.com/256/1920-Evil-Returns-Hindi-2012-20221213041144-500x500.jpg",
+        "Audio": "Uska_Hi_Banana.mp3"
+    },
+  
+    {
+        "id": 39,
+        "name": "Zaalima",
+        "Artist": "Arijit Singh",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Zaalima_Raees_Cover.jpg",
+        "Audio": "Zaalima.mp3"
+    },
+  
+    {
+        "id": 40,
+        "name": "Zara Tasveer Se Tu",
+        "Artist": "KK",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECxhCvJHKUwS2L3gfdYS1hYpm_hUqjG7vhdwtxls3T_b3T7gSO3Trt3lwsIi3-b8et-g&usqp=CAU",
+        "Audio": "Zara_Tasveer_se_tu.mp3"
+    },
+  
+    {
+        "id": 41,
+        "name": "SHIKAYAT",
+        "Artist": "Aur",
+        "image": "https://c.saavncdn.com/433/Shikayat-Hindi-2023-20231214181447-500x500.jpg",
+        "Audio": "SHIKAYAT.mp3"
+    },
+  
+    {
+        "id": 42,
+        "name": "Falak Tak Chal Sath Mere",
+        "Artist": "Vishal Shekhar",
+        "image": "https://i.scdn.co/image/ab67616d0000b27334eb4ccc7abe05223b3b3666",
+        "Audio": "Falak_Tak_Chal_Sath_Mere.mp3"
+    },
+    {
+        "id": 43,
+        "name": "Chahun Main Ya Naa",
+        "Artist": "Arijit Singh",
+        "image": "https://c.saavncdn.com/659/Chahun-Main-Ya-Naa-Lofi-Mix-Hindi-2022-20220526151000-500x500.jpg",
+        "Audio": "Chahun_Main_Ya_Naa.mp3"
+    },
+    {
+        "id": 44,
+        "name": "Kabhi To Pass Mere Aao",
+        "Artist": "Atif Aslam",
+        "image": "https://c.saavncdn.com/025/Kabhi-To-Paas-Mere-Aao-Lofi-Version--Hindi-2021-20220225205714-500x500.jpg",
+        "Audio": "Kabhi_To_Paas_Mere_Aao.mp3"
+    },
+    {
+        "id": 45,
+        "name": "Kahani Suno 2",
+        "Artist": "Kaifi Khalil",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4quKKZaeoNEb2UjrOIElCP8JstWH5fOq7A&s",
+        "Audio": "Kahani_Suno_2.mp3"
+    },
+    {
+        "id": 46,
+        "name": "Kaley Sheshe",
+        "Artist": "Aady Nagar",
+        "image": "https://c.saavncdn.com/220/Kaley-Sheshe-Hindi-2023-20230706132407-500x500.jpg",
+        "Audio": "Kaley_Sheshe.mp3"
+    },
+    {
+        "id": 47,
+        "name": "KAUN TUJHE",
+        "Artist": "Palak Muchhal",
+        "image": "https://c.saavncdn.com/723/Kaun-Tujhe-Instrumental-Hindi-2018-20181221124315-500x500.jpg",
+        "Audio": "KAUN_TUJHE.mp3"
+    },
+    {
+        "id": 48,
+        "name": "O Khuda",
+        "Artist": "Arman Malik",
+        "image": "https://c.saavncdn.com/469/Hero-Hindi-2015-500x500.jpg",
+        "Audio": "O_Khuda.mp3"
+    },
+    {
+        "id": 49,
+        "name": "SHIKAYAT",
+        "Artist": "Shuddhi",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMesYKyIc8dpnRgN37TTLNQDylgwwVmhYF3xeTNcmVpSsZvb89Dckh-m8aMBAigirAGAU&usqp=CAU",
+        "Audio": "SHIKAYAT_female.mp3"
+    },
+    {
+        "id": 50,
+        "name": "Tu Hai Kahan",
+        "Artist": "Shuddhi",
+        "image": "https://www.pagalworld.com.so/uploads/thumb/sft40/19681_4.jpg",
+        "Audio": "TU_HAI_KAHAN_female.mp3"
+    },
+    {
+        "id": 51,
+        "name": "Tu Hi Hai Aashiqui",
+        "Artist": "Arijit Singh",
+        "image": "https://c.saavncdn.com/529/Dishkiyaoon-Hindi-2014-20230430081739-500x500.jpg",
+        "Audio": "Tu_Hi_Hai_Aashiqui.mp3"                 
+    },
+    {
+        "id": 52,
+        "name": "Tum Hi Aana",
+        "Artist": "Jubin Nautiyal",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFxvtw1HsakAEjiTAy_LuPXkUAw6u019izw&s",
+        "Audio": "Tum_Hi_Aana.mp3"
+    },
+    {
+        "id": 53,
+        "name": "Zara Zara behekta Hai",
+        "Artist": "Acoustic beats",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOhWUZiFRfpdtyz7MiERR4NgjPdOFk2Tr3g&s",
+        "Audio": "Zara_Zara_Bahekta_Hai.mp3"
+    },
+    {
+        "id": 54,
+        "name": "Galliyan",
+        "Artist": "Ankit Tiwari",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a2ef89ae0f8d1848081c1449",
+        "Audio": "Galliyan.mp3"
+    },
+    {
+        "id": 55,
+        "name": "Baatein Ye Kabhi Na",
+        "Artist": "Arijit Singh",
+        "image": "https://c-fa.cdn.smule.com/rs-s80/arr/1a/83/b8a68eb4-6752-4db8-991e-b3e0dff1dc78.jpg",
+        "Audio": "Baatein_Ye_Kabhi_Na.mp3"
+
+    }
+
+]

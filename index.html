@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spotify - Web Player: Music for everyone</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  <nav>
+    <div class="logo">
+      <i class="fa-brands fa-spotify"></i>
+    </div>
+    <div class="searchBar">
+      <span><i class="fa-solid fa-house"></i></span>
+      <div>
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input type="text" placeholder=" What do you want to play?">
+        <i class="fa-brands fa-chrome"></i>
+      </div>
+    </div>
+    <div class="loginContainer">
+      <span class="Signup">
+        <li id="Signup">Sign up</li>
+      </span>
+      <span class="logIn">
+        <li id="logIn">Log in</li>
+      </span>
+    </div>
+  </nav>
+
+  <main>
+    <div class="leftContainer">
+      <div class="library">
+        <svg data-encore-id="icon" role="img" aria-hidden="true" viewBox="0 0 24 24" class="Svg-sc-ytk21e-0 bneLcE">
+          <path
+            d="M3 22a1 1 0 0 1-1-1V3a1 1 0 0 1 2 0v18a1 1 0 0 1-1 1zM15.5 2.134A1 1 0 0 0 14 3v18a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V6.464a1 1 0 0 0-.5-.866l-6-3.464zM9 2a1 1 0 0 0-1 1v18a1 1 0 1 0 2 0V3a1 1 0 0 0-1-1z">
+          </path>
+        </svg>
+        <span>Your Library</span>
+        <i class="fa-solid fa-plus"></i>
+      </div>
+      <div class="createPlaylist">
+        <h4>Create your first playlist</h4>
+        <p>It's easy, we'll help you</p>
+        <button>Create Playlist</button>
+      </div>
+      <div class="podcast">
+        <h4>Let's find some podcasts to follow</h4>
+        <p>We'll keep you updates on new episodes</p>
+        <button>Browse podcasts</button>
+      </div>
+      <div class="libraryFooter">
+        <div class="privacyPolicy">
+          <p>Legal</p>
+          <p>Safety & Privacy Center</p>
+          <p>privacy Policy</p>
+        </div>
+        <div class="accessibility">
+          <p>Cookies</p>
+          <p>About Ads</p>
+          <p>Accessibility</p>
+        </div>
+        <div class="cookies">
+          <p>Cookies</p>
+        </div>
+      </div>
+      <button class="language"><i class="fa-solid fa-globe"></i> English</button>
+
+    </div>
+    <div class="rightContainer">
+      <div class="allArtist">
+        <h2>Popular artists !</h2>
+      </div>
+      <div class="artists">
+        <div class="artist">
+          <div class="artistCard" id="card1">
+            <div class="circle" id="circle1"><i class="fa-solid fa-play"></i></div>
+            <img aria-hidden="false" draggable="false" loading="lazy"
+              src="https://yt3.googleusercontent.com/H9Dmev7piC9tIttExkTAwF-mYzxiVG4oi8Ut-CevMSZMsQ3Z4QgENUkAyY9-jL6QySjWzTMc=s900-c-k-c0x00ffffff-no-rj" data-testid="card-image" alt=""
+              class="mMx2LUixlnN_Fu45JpFB yMQTWVwLJ5bV8VGiaqU3 MxmW8QkHqHWtuhO589PV Yn2Ei5QZn19gria6LjZj">
+            <h4>Ahad, Usama, R</h4>
+            <p>artist</p>
+          </div>
+          <div class="artistCard" id="card2">
+            <div class="circle" id="circle2"><i class="fa-solid fa-play"></i></div>
+            <img aria-hidden="false" draggable="false" loading="lazy"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVOkHbVJpe3sAkx94-OwyViRwAGh8TZIGNQ&s">
+            <h4>Jubin Nautiyal</h4>
+            <p>artist</p>
+          </div>
+          <div class="artistCard" id="card3">
+            <div class="circle" id="circle3"><i class="fa-solid fa-play"></i></div>
+            <img aria-hidden="false" draggable="false" loading="lazy"
+              src="https://i.scdn.co/image/ab676161000051745ba2d75eb08a2d672f9b69b7" data-testid="card-image" alt=""
+              class="mMx2LUixlnN_Fu45JpFB yMQTWVwLJ5bV8VGiaqU3 MxmW8QkHqHWtuhO589PV Yn2Ei5QZn19gria6LjZj">
+            <h4>Arijit Singh</h4>
+            <p>artist</p>
+          </div>
+          <div class="artistCard" id="card4">
+            <div class="circle" id="circle4"><i class="fa-solid fa-play"></i></div>
+            <img aria-hidden="false" draggable="false" loading="lazy"
+              src="https://i.scdn.co/image/ab67616100005174b09a31f853166e721d4d46b2" data-testid="card-image" alt=""
+              class="mMx2LUixlnN_Fu45JpFB yMQTWVwLJ5bV8VGiaqU3 MxmW8QkHqHWtuhO589PV yOKoknIYYzAE90pe7_SE Yn2Ei5QZn19gria6LjZj">
+            <h4>KK</h4>
+            <p>artist</p>
+          </div>
+          <div class="artistCard" id="card5">
+            <div class="circle" id="circle5"><i class="fa-solid fa-play"></i></div>
+            <img aria-hidden="false" draggable="false" loading="lazy"
+              src="https://i.scdn.co/image/ab67616100005174fd5ddfdc83ae91d0515bacf6" data-testid="card-image" alt=""
+              class="mMx2LUixlnN_Fu45JpFB yMQTWVwLJ5bV8VGiaqU3 MxmW8QkHqHWtuhO589PV yOKoknIYYzAE90pe7_SE Yn2Ei5QZn19gria6LjZj">
+            <h4>Darshan Raval</h4>
+            <p>artist</p>
+          </div>
+          <div class="artistCard" id="card6">
+            <div class="circle" id="circle6"><i class="fa-solid fa-play"></i></div>
+            <img aria-hidden="false" draggable="false" loading="lazy"
+              src="https://i.scdn.co/image/ab67616100005174c40600e02356cc86f0debe84" data-testid="card-image" alt=""
+              class="mMx2LUixlnN_Fu45JpFB yMQTWVwLJ5bV8VGiaqU3 MxmW8QkHqHWtuhO589PV Yn2Ei5QZn19gria6LjZj">
+            <h4>Atif Aslam</h4>
+            <p>artist</p>
+          </div>
+          <div class="artistCard" id="card7">
+            <div class="circle" id="circle7"><i class="fa-solid fa-play"></i></div>
+            <img aria-hidden="false" draggable="false" loading="lazy"
+              src="https://a10.gaanacdn.com/gn_img/albums/kGxbn03y4r/xbn172QVWy/size_m.jpg" data-testid="card-image" alt=""
+              class="mMx2LUixlnN_Fu45JpFB yMQTWVwLJ5bV8VGiaqU3 MxmW8QkHqHWtuhO589PV Yn2Ei5QZn19gria6LjZj">
+            <h4>Shuddhi</h4>
+            <p>artist</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="allSongs">
+        <h3>Popular Songs !</h3>
+      </div>
+      <div class="songContainer">
+        <div class="songs" id="songsCont">
+
+
+
+        </div>
+      </div>
+      <div class="moreSongContainer">
+        <div class="moreSongs" id="moreSongCont">
+
+        </div>
+      </div>
+
+      <template id="songsTemplate">
+        <div class="song" id="songValue" data-scr="">
+          <div class="songCircle"><i class="fa-solid fa-play"></i></div>
+          <img id="songImage" aria-hidden="false" draggable="false" loading="lazy" src="" data-testid="card-image"
+            alt="" class="mMx2LUixlnN_Fu45JpFB yMQTWVwLJ5bV8VGiaqU3 MxmW8QkHqHWtuhO589PV Yn2Ei5QZn19gria6LjZj">
+          <h4 id="songName"></h4>
+          <p id="Artist"></p>
+        </div>
+      </template>
+      <template id="moreSongsTemplate">
+        <div class="moreSong" id="moreSongValue" data-url="">
+          <div class="songCircle"><i class="fa-solid fa-play"></i></div>
+          <img id="MoreSongImage" aria-hidden="false" draggable="false" loading="lazy" src="" data-testid="card-image"
+            alt="" class="mMx2LUixlnN_Fu45JpFB yMQTWVwLJ5bV8VGiaqU3 MxmW8QkHqHWtuhO589PV Yn2Ei5QZn19gria6LjZj">
+          <h4 id="moreSongName"></h4>
+          <p id="moreArtist"></p>
+        </div>
+      </template>
+
+      <footer>
+
+        <div class="footer">
+          <div class="company">
+            <h4>Company</h4>
+            <p>About</p>
+            <p>Jobs</p>
+            <p>For the Record</p>
+          </div>
+          <div class="communities">
+            <h4>Communities</h4>
+            <p>For Artists</p>
+            <p>Developers</p>
+            <p>Advertising</p>
+            <p>Investers</p>
+            <p>Vendors</p>
+          </div>
+          <div class="links">
+            <h4>Useful links</h4>
+            <p>Support</p>
+            <p>Free Mobile App</p>
+          </div>
+          <div class="plans">
+            <h4>Spotify Plans</h4>
+            <p>Premium Individual</p>
+            <p>Premium Duo</p>
+            <p>Premium Family</p>
+            <p>Premium Students</p>
+            <p>Spotify Free </p>
+          </div>
+          <div class="mediaLinks">
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-twitter"></i>
+            <i class="fa-brands fa-square-facebook"></i>
+          </div>
+        </div>
+
+        <div class="line"></div>
+
+        <div class="copyright">
+          <p>�� 2024 Spotify. All rights reserved.</p>
+        </div>
+
+      </footer>
+
+    </div>
+  </main>
+  <div class="foot">
+    <audio id="audio-player" controls src="TU_HAI_KAHAN.mp3"></audio>
+
+  </div>
+
+
+  <script type="module" src="main.js"></script>
+</body>
+
+</html>

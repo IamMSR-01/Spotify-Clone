@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "name": "1920 Landon",
+        "Artist": "Arijit Singh",
+        "image": "https://c.saavncdn.com/662/1920-London-1-Hindi-2016-500x500.jpg",
+        "audio": "Aaj_Ro_len_De.mp3"
+
+    },
+    {
+        "id": 2,
+        "name": "Tu Hai Kahan",
+        "Artist": "Aur",
+        "image": "https://m.media-amazon.com/images/I/41yx6ziZQuL._UXNaN_FMjpg_QL85_.jpg",
+         "audio": "Tu_Hai_Kahan.mp3"
+    },
+    
+    {
+        "id": 3,
+        "name": "Bhula Diya",
+        "Artist": "Darshan Raval",
+        "image": "https://c.saavncdn.com/994/Bhula-Diya-Hindi-2019-20190206053240-500x500.jpg",
+         "audio": "Bhula_Diya.mp3"
+    },
+    {
+        "id": 4,
+        "name": "Bhula Dunhga",
+        "Artist": "Darshan Raval",
+        "image": "https://c.saavncdn.com/581/Bhula-Dunga-Hindi-2020-20200320230352-500x500.jpg",
+        "audio": "Bhula_Dunga.mp3"
+
+    },
+    {
+        "id": 5,
+        "name": "Har Kisi Ko Nahi",
+        "Artist": "Arijit Singh",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNsYyTaRZ39rzXzvNfnqSZSz15d-MolnZkw&s",
+        "audio": "Har_Kisi_ko.mp3"
+    },
+    {
+        "id": 6,
+        "name": "Aaj ki Raat",
+        "Artist": "Sachin-Jigar",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e16168f7e8ff4fb8aace6cf",
+        "audio": "Aaj_Ki_Raat.mp3"
+    },
+    {
+        "id": 7,
+        "name": "SHIKAYAT",
+        "Artist": "Aur",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbDa9BWIxeEAzwEr3o6EflwxW0Iuz2WqxRBQ&s",
+        "audio": "SHIKAYAT.mp3"
+    }
+   
+]
